@@ -1,29 +1,28 @@
-# Enterprise Cybersecurity Governance & Risk Transformation Initiative
+# IsoTech Ink Company Profile
 
 ## Overview
 
-This project simulates a cybersecurity governance transformation initiative for IsoTech Ink, a fictional 200-employee digital printing and logistics company.
+This document establishes the organizational profile for IsoTech Ink, a fictional 200-employee digital printing and logistics company.
 
-## My Role
+The assessment identifies:
 
-Cybersecurity Risk & Operations Coordinator
+- Business operations
+- Organizational structure
+- Departmental responsibilities
+- Technology dependencies
+- Workforce composition
+- Critical business assets
+- Cybersecurity risk exposure areas
 
-## Frameworks Used
+## Purpose
 
-- NIST CSF
-- NIST 800-53
-- NIST 800-61
-- CIS Controls
-- ISO 27001
-- MITRE ATT&CK
+This document served as the foundational discovery and business assessment phase of the Enterprise Cybersecurity Governance & Risk Transformation Initiative.
 
 ## Skills Demonstrated
 
-- Governance
-- Risk Management
-- Compliance
-- Third-Party Risk Management
-- Security Awareness
-- Incident Response
-- Security Operations Coordination
-- Cybersecurity Project Management
+- Business Analysis
+- Cybersecurity Governance
+- Risk Assessment
+- Asset Identification
+- Organizational Analysis
+- Stakeholder Mapping

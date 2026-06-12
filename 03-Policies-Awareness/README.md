@@ -112,3 +112,15 @@ Frameworks Referenced:
 • NIST Cybersecurity Framework (CSF)
 • CIS Controls
 • ISO 27001
+
+### Employee Cybersecurity Handbook
+
+Developed a cybersecurity handbook designed to provide employees with practical guidance on security responsibilities, password management, phishing awareness, acceptable use, remote work security, data protection, and incident reporting.
+
+The handbook serves as an employee-friendly reference document supporting the broader Security Awareness & Training Program.
+
+Frameworks Referenced:
+
+• NIST SP 800-50
+• CIS Controls
+• ISO 27001

@@ -99,3 +99,16 @@ Frameworks Referenced:
 • NIST SP 800-53
 • CIS Critical Security Controls
 • ISO 27001
+
+### Security Awareness & Training Program
+
+Developed a comprehensive security awareness and training program designed to improve employee cybersecurity behavior and reduce organizational risk.
+
+The program establishes annual training requirements, phishing awareness initiatives, role-based security education, reporting procedures, and performance metrics to strengthen the organization's security culture.
+
+Frameworks Referenced:
+
+• NIST SP 800-50
+• NIST Cybersecurity Framework (CSF)
+• CIS Controls
+• ISO 27001

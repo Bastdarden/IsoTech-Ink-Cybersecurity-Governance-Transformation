@@ -22,3 +22,28 @@ Frameworks Referenced:
 • NIST SP 800-53
 • CIS Critical Security Controls
 • ISO 27001 Access Management Controls
+
+### Access Review Matrix
+
+Developed a formal Access Review Matrix to support ongoing governance of user permissions across IsoTech Ink's business systems and applications.
+
+The matrix establishes ownership, review frequency, approval requirements, and validation procedures for user access across departments, ensuring that access privileges remain aligned with business responsibilities and least privilege principles.
+
+The document supports audit readiness, regulatory compliance, and identity governance by providing a repeatable process for reviewing user permissions, identifying excessive privileges, and removing unnecessary access.
+
+Key Areas Covered:
+
+• System Ownership Accountability
+• User Access Validation
+• Privileged Account Reviews
+• Quarterly Access Certifications
+• Separation of Duties Verification
+• Access Recertification Procedures
+• Joiner-Mover-Leaver Reviews
+• Audit Evidence Collection
+
+Frameworks Referenced:
+
+• NIST SP 800-53 AC Family
+• CIS Controls
+• ISO 27001 Access Control Requirements

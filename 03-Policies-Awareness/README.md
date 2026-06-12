@@ -47,3 +47,29 @@ Frameworks Referenced:
 • NIST SP 800-53 AC Family
 • CIS Controls
 • ISO 27001 Access Control Requirements
+
+### MFA & Password Security Standard
+
+Developed a Multi-Factor Authentication (MFA) and Password Security Standard to strengthen identity protection and reduce the risk of unauthorized access across IsoTech Ink's technology environment.
+
+The standard establishes password creation requirements, authentication controls, password lifecycle management procedures, MFA enforcement requirements, and user responsibilities for protecting organizational accounts.
+
+This document was created to address risks identified during the Initial Cybersecurity Risk Assessment, including weak password practices, remote workforce security concerns, credential theft, phishing exposure, and inconsistent authentication controls.
+
+Key Areas Covered:
+
+• Password Complexity Requirements
+• Password Length Standards
+• Multi-Factor Authentication (MFA)
+• Password Storage & Protection
+• Account Lockout Controls
+• Credential Management
+• Remote Access Authentication
+• Privileged Account Security
+
+Frameworks Referenced:
+
+• NIST SP 800-63 Digital Identity Guidelines
+• NIST SP 800-53
+• CIS Critical Security Controls
+• ISO 27001 Access Control Requirements

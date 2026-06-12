@@ -73,3 +73,29 @@ Frameworks Referenced:
 • NIST SP 800-53
 • CIS Critical Security Controls
 • ISO 27001 Access Control Requirements
+
+### BYOD & Remote Work Security Policy
+
+Developed a Bring Your Own Device (BYOD) and Remote Work Security Policy to establish governance, security controls, and employee responsibilities for accessing organizational resources from personal devices and remote locations.
+
+The policy defines device compliance requirements, authentication standards, data protection controls, remote access expectations, and acceptable use requirements to reduce cybersecurity risks associated with hybrid and remote work environments.
+
+This policy was developed to address security concerns identified during the Initial Cybersecurity Risk Assessment, including inconsistent remote access practices, unmanaged personal devices, phishing exposure, and insufficient endpoint security controls.
+
+Key Areas Covered:
+
+• Bring Your Own Device (BYOD) Requirements
+• Remote Access Security Standards
+• Device Compliance Expectations
+• Multi-Factor Authentication Requirements
+• Mobile Device Security Controls
+• Data Protection Requirements
+• Acceptable Use Expectations
+• Incident Reporting Procedures
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• CIS Critical Security Controls
+• ISO 27001

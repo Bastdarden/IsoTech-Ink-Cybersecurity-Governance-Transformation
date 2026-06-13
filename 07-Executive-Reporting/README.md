@@ -24,3 +24,15 @@ Frameworks Referenced:
 • CIS Controls
 • ISO 27001
 • Security Governance Best Practices
+
+### Executive Security Awareness Summary
+
+Developed an executive-level summary highlighting Security Awareness Program objectives, employee engagement metrics, phishing simulation results, risk reduction initiatives, and future security priorities.
+
+The report translates cybersecurity activities into business-focused outcomes to support governance, executive decision-making, and long-term security program maturity.
+
+Frameworks Referenced:
+
+• NIST SP 800-50
+• NIST Cybersecurity Framework (CSF)
+• CIS Controls

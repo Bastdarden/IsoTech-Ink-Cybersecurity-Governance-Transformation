@@ -75,3 +75,27 @@ Frameworks Referenced:
 • NIST SP 800-53
 • CIS Controls
 • ISO 27001
+
+### Cybersecurity Governance Maturity Assessment
+
+Developed a Cybersecurity Governance Maturity Assessment to evaluate the effectiveness, consistency, and maturity of the organization's cybersecurity governance program.
+
+The assessment analyzes governance capabilities across policy management, risk management, executive oversight, security awareness, incident response, vendor risk management, and compliance activities. Maturity ratings and improvement recommendations were developed to support long-term cybersecurity program growth and organizational resilience.
+
+Key Areas Assessed:
+
+• Governance Structure & Oversight
+• Risk Management Processes
+• Policy Management
+• Security Awareness Program
+• Incident Response Governance
+• Vendor Risk Governance
+• Compliance Management
+• Executive Reporting
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• CIS Controls
+• ISO 27001

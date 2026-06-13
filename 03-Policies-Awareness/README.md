@@ -172,3 +172,17 @@ Frameworks Referenced:
 • NIST SP 800-50
 • CIS Security Awareness Controls
 • NIST Cybersecurity Framework (CSF)
+
+###Executive Security Awareness Summary
+
+Developed an executive-level summary highlighting the objectives, progress, outcomes, and business value of the organization's Security Awareness Program.
+
+The report translates cybersecurity risks and awareness initiatives into business-focused language, enabling leadership to understand program effectiveness, employee engagement levels, risk reduction efforts, and future security priorities.
+
+This deliverable demonstrates the ability to communicate cybersecurity concepts to executive stakeholders and support governance decision-making.
+
+Frameworks Referenced:
+
+NIST SP 800-50
+NIST Cybersecurity Framework (CSF)
+CIS Controls

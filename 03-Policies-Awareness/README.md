@@ -137,3 +137,14 @@ Frameworks Referenced:
 • CIS Security Awareness Controls
 • NIST Cybersecurity Framework (CSF)
 
+### Cyber Awareness Quick Quiz
+
+Developed an employee cybersecurity knowledge assessment to measure understanding of phishing, password security, multi-factor authentication, acceptable use, remote work security, and incident reporting procedures.
+
+The quiz was designed to reinforce security awareness training objectives and provide measurable indicators of employee cybersecurity readiness.
+
+Frameworks Referenced:
+
+• NIST SP 800-50
+• CIS Controls
+• Security Awareness Program Best Practices

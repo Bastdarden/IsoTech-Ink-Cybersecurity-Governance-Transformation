@@ -48,3 +48,27 @@ Frameworks Referenced:
 • NIST SP 800-53
 • NIST SP 800-30
 • CIS Controls
+
+### Compliance Control Mapping Matrix
+
+Developed a Compliance Control Mapping Matrix to align IsoTech Ink cybersecurity controls with industry-recognized governance, risk, and compliance frameworks.
+
+The matrix maps organizational security controls to framework requirements and documents implementation status, control ownership, and compliance coverage. This supports audit readiness, compliance monitoring, governance oversight, and risk management activities.
+
+Key Areas Covered:
+
+• NIST Cybersecurity Framework Mapping
+• NIST SP 800-53 Control Alignment
+• ISO 27001 Control Alignment
+• CIS Controls Mapping
+• Control Ownership
+• Compliance Status Tracking
+• Gap Identification
+• Audit Preparation Support
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• ISO 27001
+• CIS Controls

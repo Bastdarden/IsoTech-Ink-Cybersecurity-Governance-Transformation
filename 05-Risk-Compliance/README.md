@@ -24,3 +24,27 @@ Frameworks Referenced:
 • NIST SP 800-53
 • ISO 27005
 • CIS Controls
+
+### Remediation Tracking Dashboard
+
+Developed a Remediation Tracking Dashboard to monitor and manage the resolution of identified cybersecurity risks, vulnerabilities, and control gaps across the IsoTech Ink environment.
+
+The dashboard provides visibility into remediation status, ownership, priority levels, due dates, and risk treatment progress to ensure timely mitigation of security issues and improved organizational risk posture.
+
+Key Areas Tracked:
+
+• Risk Remediation Status (Open / In Progress / Closed)
+• Vulnerability Resolution Tracking
+• Risk Ownership Assignment
+• SLA / Due Date Monitoring
+• High-Risk Issue Escalation
+• Control Gap Closure Tracking
+• Security Findings Lifecycle Management
+• Executive Visibility into Risk Reduction Progress
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• NIST SP 800-30
+• CIS Controls

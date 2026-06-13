@@ -133,3 +133,27 @@ Frameworks Referenced:
 • NIST Cybersecurity Framework (CSF)
 • NIST SP 800-53
 • ISO 27001
+
+### Cybersecurity Budget Proposal
+
+Developed a Cybersecurity Budget Proposal to support implementation of the IsoTech Ink Cybersecurity Governance & Risk Transformation Initiative.
+
+The proposal identifies strategic cybersecurity investments, estimated implementation costs, resource requirements, security tool enhancements, training initiatives, governance activities, and risk reduction benefits. The document provides leadership with a structured approach for evaluating cybersecurity spending and prioritizing investments based on organizational risk.
+
+Key Areas Covered:
+
+• Security Awareness Program Funding
+• Security Monitoring Enhancements
+• Incident Response Improvements
+• Vendor Risk Management Investments
+• Access Control & Identity Management Initiatives
+• Compliance & Governance Activities
+• Security Tooling Recommendations
+• Cost-Benefit Analysis
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• CIS Controls
+• ISO 27001

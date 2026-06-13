@@ -109,3 +109,27 @@ Frameworks Referenced:
 • NIST SP 800-53
 • ISO 27001
 • CIS Controls
+
+### Security Project Tracker
+
+Developed a Security Project Tracker to manage cybersecurity initiatives, monitor implementation progress, track milestones, assign ownership, and support executive visibility throughout the IsoTech Ink cybersecurity transformation program.
+
+The tracker provides a centralized view of project status, dependencies, timelines, risk mitigation activities, and strategic initiatives to ensure accountability and successful execution of cybersecurity objectives.
+
+Key Areas Tracked:
+
+• Project Status
+• Milestones & Deliverables
+• Initiative Ownership
+• Target Completion Dates
+• Risk Mitigation Activities
+• Governance Initiatives
+• Compliance Projects
+• Executive Reporting Metrics
+
+Frameworks Referenced:
+
+• PMI Project Management Principles
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• ISO 27001

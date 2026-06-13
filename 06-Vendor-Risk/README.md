@@ -47,3 +47,28 @@ Frameworks Referenced:
 • ISO 27001
 • CIS Controls
 • NIST Cybersecurity Framework (CSF)
+
+### Third-Party Risk Register
+
+Developed a Third-Party Risk Register to identify, track, assess, and monitor cybersecurity risks associated with vendors, suppliers, and external service providers.
+
+The register provides centralized visibility into third-party security risks, risk ratings, mitigation activities, ownership assignments, review dates, and remediation status. This supports ongoing vendor oversight, supply chain security, governance reporting, and enterprise risk management activities.
+
+Key Areas Tracked:
+
+• Vendor Risk Ratings
+• Data Sensitivity Exposure
+• Security Assessment Results
+• Contract Compliance Risks
+• Risk Mitigation Activities
+• Vendor Review Schedules
+• Residual Risk Tracking
+• Executive Risk Reporting
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• NIST SP 800-171
+• ISO 27001
+• CIS Controls

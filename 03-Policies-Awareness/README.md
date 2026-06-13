@@ -124,3 +124,16 @@ Frameworks Referenced:
 • NIST SP 800-50
 • CIS Controls
 • ISO 27001
+
+### Phishing & Social Engineering Awareness Guide
+
+Developed an employee-focused awareness guide designed to educate users on common social engineering threats, including phishing, vishing, smishing, business email compromise (BEC), and impersonation attacks.
+
+The guide provides practical examples, warning signs, reporting procedures, and security best practices to help employees identify and respond to potential cyber threats.
+
+Frameworks Referenced:
+
+• NIST SP 800-50
+• CIS Security Awareness Controls
+• NIST Cybersecurity Framework (CSF)
+

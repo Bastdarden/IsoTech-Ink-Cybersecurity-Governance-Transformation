@@ -148,3 +148,27 @@ Frameworks Referenced:
 • NIST SP 800-50
 • CIS Controls
 • Security Awareness Program Best Practices
+
+### Security Awareness Email
+
+Developed a cybersecurity awareness communication designed to educate employees on key security responsibilities, including password security, phishing prevention, acceptable use, remote work security, and incident reporting procedures.
+
+The communication supports the broader Security Awareness Program by reinforcing security expectations, promoting employee engagement, and encouraging proactive security behavior across the organization.
+
+Frameworks Referenced:
+
+• NIST SP 800-50
+• NIST Cybersecurity Framework (CSF)
+• CIS Controls
+
+### Quarterly Phishing Simulation Exercise
+
+Developed a quarterly phishing simulation exercise designed to evaluate employee susceptibility to phishing attacks and measure the effectiveness of the organization's security awareness program.
+
+The exercise includes simulation planning, employee testing scenarios, reporting procedures, performance metrics, remediation recommendations, and continuous improvement activities aimed at reducing human-focused cybersecurity risks.
+
+Frameworks Referenced:
+
+• NIST SP 800-50
+• CIS Security Awareness Controls
+• NIST Cybersecurity Framework (CSF)

@@ -99,3 +99,27 @@ Frameworks Referenced:
 • NIST SP 800-53
 • CIS Controls
 • ISO 27001
+
+### Security Policy Lifecycle Standard
+
+Developed a Security Policy Lifecycle Standard establishing requirements for the creation, review, approval, maintenance, communication, and retirement of cybersecurity policies and standards.
+
+The standard defines governance responsibilities, policy ownership requirements, review cycles, approval workflows, version control practices, and documentation requirements to ensure cybersecurity policies remain current, effective, and aligned with business objectives and regulatory expectations.
+
+Key Areas Covered:
+
+• Policy Creation Process
+• Review & Approval Procedures
+• Policy Ownership Requirements
+• Version Control Standards
+• Policy Communication Requirements
+• Scheduled Policy Reviews
+• Policy Exception Handling
+• Policy Retirement Procedures
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• ISO 27001
+• CIS Controls

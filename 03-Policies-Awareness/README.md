@@ -173,7 +173,7 @@ Frameworks Referenced:
 • CIS Security Awareness Controls
 • NIST Cybersecurity Framework (CSF)
 
-###Executive Security Awareness Summary
+### Executive Security Awareness Summary
 
 Developed an executive-level summary highlighting the objectives, progress, outcomes, and business value of the organization's Security Awareness Program.
 

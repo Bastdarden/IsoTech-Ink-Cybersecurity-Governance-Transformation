@@ -123,3 +123,29 @@ Frameworks Referenced:
 • NIST SP 800-53
 • ISO 27001
 • CIS Controls
+
+### Quarterly Governance Review Process
+
+Developed a Quarterly Governance Review Process to establish a structured approach for evaluating cybersecurity program performance, governance effectiveness, risk trends, compliance status, and strategic security initiatives.
+
+The process defines review participants, meeting cadence, reporting requirements, risk escalation procedures, decision-making activities, and follow-up actions necessary to support ongoing cybersecurity governance and executive oversight.
+
+The review process promotes accountability, continuous improvement, and alignment between cybersecurity objectives and business priorities.
+
+Key Areas Covered:
+
+• Governance Review Meetings
+• Risk Register Reviews
+• Compliance Status Reviews
+• Security KPI Evaluation
+• Policy Review Activities
+• Vendor Risk Updates
+• Incident Response Metrics
+• Executive Decision Tracking
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• ISO 27001
+• CIS Controls

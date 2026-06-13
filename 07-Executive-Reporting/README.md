@@ -61,3 +61,51 @@ Frameworks Referenced:
 • NIST SP 800-53
 • ISO 27001
 • CIS Controls
+
+### Enterprise Cybersecurity Roadmap
+
+Developed a multi-year Enterprise Cybersecurity Roadmap outlining the strategic direction of IsoTech Ink's cybersecurity transformation initiative.
+
+The roadmap establishes a phased approach to improving governance, risk management, security operations, compliance, vendor risk management, employee security awareness, and executive reporting capabilities. Strategic priorities, key milestones, and target maturity outcomes were defined to support long-term organizational resilience and business alignment.
+
+Key Roadmap Areas:
+
+• Governance Program Maturity
+• Security Awareness Expansion
+• Incident Response Capability Development
+• Security Operations Monitoring
+• Vendor Risk Management
+• Compliance Readiness
+• Access Governance Improvements
+• Executive Reporting Enhancements
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• ISO 27001
+• CIS Controls
+
+### 12-Month Cybersecurity Improvement Plan
+
+Developed a 12-Month Cybersecurity Improvement Plan translating strategic cybersecurity objectives into actionable initiatives, timelines, deliverables, and measurable outcomes.
+
+The plan establishes quarterly priorities for governance enhancements, policy development, security awareness activities, incident response improvements, vendor risk management, security monitoring, and compliance initiatives. Progress tracking mechanisms and success metrics were incorporated to support accountability and continuous improvement.
+
+Key Planning Areas:
+
+• Governance Improvements
+• Policy Development
+• Security Awareness Initiatives
+• Incident Response Enhancements
+• Vendor Risk Assessments
+• Security Monitoring Improvements
+• Compliance Activities
+• KPI Reporting & Tracking
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• ISO 27001
+• CIS Controls

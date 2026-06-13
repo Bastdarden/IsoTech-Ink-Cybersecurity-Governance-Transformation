@@ -72,3 +72,27 @@ Frameworks Referenced:
 • NIST SP 800-53
 • ISO 27001
 • CIS Controls
+
+### Governance Compliance Gap Assessment
+
+Developed a Governance Compliance Gap Assessment to evaluate the current state of IsoTech Ink's cybersecurity governance program against recognized security and compliance frameworks.
+
+The assessment identifies governance weaknesses, control deficiencies, compliance gaps, and improvement opportunities across policies, procedures, risk management practices, vendor oversight, incident response, and security awareness initiatives.
+
+Key Areas Assessed:
+
+• Governance Structure Effectiveness
+• Policy & Procedure Coverage
+• Risk Management Maturity
+• Incident Response Readiness
+• Security Awareness Program Maturity
+• Vendor Risk Management Controls
+• Compliance Alignment
+• Executive Oversight Processes
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• ISO 27001
+• CIS Controls

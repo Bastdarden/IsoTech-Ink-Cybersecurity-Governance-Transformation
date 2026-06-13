@@ -177,6 +177,29 @@ Key Areas Covered:
 
 Frameworks Referenced:
 
+### Security Initiative Timeline
+
+Developed a Security Initiative Timeline to map cybersecurity transformation efforts across IsoTech Ink into a structured, time-based execution plan.
+
+The timeline outlines phased security improvements across governance, risk management, security operations, policy development, vendor risk management, and executive reporting to ensure coordinated execution and delivery of cybersecurity initiatives.
+
+Key Areas Included:
+
+• Governance Implementation Phases
+• Policy Deployment Timeline
+• Security Awareness Rollout Schedule
+• Incident Response Maturity Milestones
+• Vendor Risk Program Execution
+• Security Operations Enhancements
+• Compliance Improvement Phases
+• Executive Reporting Cadence
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• PMI Project Management Principles
+• ISO 27001
+• CIS Controls
 • NIST Cybersecurity Framework (CSF)
 • NIST SP 800-53
 • ISO 27001

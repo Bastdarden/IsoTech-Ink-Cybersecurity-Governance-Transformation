@@ -1,4 +1,4 @@
-Security Incident Reporting Procedure
+##Security Incident Reporting Procedure
 
 Developed a formal Security Incident Reporting Procedure to establish clear processes for identifying, reporting, documenting, and escalating cybersecurity incidents across the organization.
 

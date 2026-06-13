@@ -36,3 +36,28 @@ Frameworks Referenced:
 • NIST SP 800-50
 • NIST Cybersecurity Framework (CSF)
 • CIS Controls
+
+### Governance Presentation Deck
+
+Developed an executive-level Governance Presentation Deck summarizing cybersecurity governance initiatives, risk management activities, policy improvements, security awareness efforts, vendor risk oversight, compliance progress, and strategic recommendations.
+
+The presentation translates cybersecurity activities into business-focused outcomes and provides leadership with actionable insights regarding organizational risk, governance maturity, and security program effectiveness.
+
+Key Topics Presented:
+
+• Cybersecurity Program Overview
+• Governance Structure
+• Risk Assessment Findings
+• Security Awareness Program Results
+• Incident Response Readiness
+• Vendor Risk Management
+• Security Metrics & KPIs
+• Governance Maturity Assessment
+• Strategic Recommendations
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• ISO 27001
+• CIS Controls

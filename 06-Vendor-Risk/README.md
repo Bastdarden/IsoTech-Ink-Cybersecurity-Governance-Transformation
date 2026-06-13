@@ -22,3 +22,28 @@ Frameworks Referenced:
 • NIST SP 800-171
 • ISO 27001
 • CIS Controls
+
+### Vendor Security Assessment Questionnaire
+
+Developed a Vendor Security Assessment Questionnaire used to evaluate third-party cybersecurity controls, governance practices, compliance capabilities, and operational security maturity.
+
+The questionnaire supports vendor due diligence activities by assessing security controls related to access management, data protection, incident response, business continuity, compliance, and security monitoring.
+
+Key Assessment Areas:
+
+• Security Governance
+• Access Control & Identity Management
+• Data Protection Controls
+• Incident Response Capabilities
+• Security Monitoring & Logging
+• Business Continuity Planning
+• Regulatory Compliance
+• Third-Party Risk Management
+
+Frameworks Referenced:
+
+• NIST SP 800-53
+• NIST SP 800-171
+• ISO 27001
+• CIS Controls
+• NIST Cybersecurity Framework (CSF)

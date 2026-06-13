@@ -96,3 +96,51 @@ Frameworks Referenced:
 • NIST SP 800-53
 • ISO 27001
 • CIS Controls
+
+### Cybersecurity Audit Readiness Assessment
+
+Developed a Cybersecurity Audit Readiness Assessment to evaluate IsoTech Ink's preparedness for internal audits, external audits, compliance reviews, and governance evaluations.
+
+The assessment reviews security controls, policies, procedures, documentation, governance processes, evidence collection practices, and compliance activities to identify audit readiness strengths and improvement opportunities.
+
+Key Areas Assessed:
+
+• Security Policy Documentation
+• Governance Program Maturity
+• Risk Management Processes
+• Incident Response Readiness
+• Security Awareness Program Documentation
+• Vendor Risk Management Evidence
+• Compliance Documentation
+• Control Ownership & Accountability
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• ISO 27001
+• CIS Controls
+
+### Security Control Effectiveness Assessment
+
+Developed a Security Control Effectiveness Assessment to evaluate the design, implementation, and operational effectiveness of cybersecurity controls across the IsoTech Ink environment.
+
+The assessment reviews access management controls, security awareness initiatives, incident response procedures, logging and monitoring capabilities, vendor oversight activities, and governance processes to determine whether controls effectively reduce organizational risk.
+
+Key Areas Assessed:
+
+• Access Control Effectiveness
+• MFA & Authentication Controls
+• Security Awareness Program Effectiveness
+• Incident Response Process Maturity
+• Security Monitoring & Logging Controls
+• Vendor Risk Management Controls
+• Governance Oversight Processes
+• Risk Reduction Outcomes
+
+Frameworks Referenced:
+
+• NIST SP 800-53
+• NIST Cybersecurity Framework (CSF)
+• ISO 27001
+• CIS Controls

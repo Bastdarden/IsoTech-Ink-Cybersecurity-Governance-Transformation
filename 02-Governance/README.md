@@ -49,3 +49,29 @@ Frameworks Referenced:
 • NIST SP 800-53
 • CIS Controls
 • ISO 27001 Governance Practices
+
+### Cybersecurity Roles & Responsibilities Matrix
+
+Developed a Cybersecurity Roles & Responsibilities Matrix to establish clear accountability, ownership, and responsibility for cybersecurity activities across the organization.
+
+The matrix defines security-related responsibilities for executives, department managers, IT personnel, Human Resources, vendors, and employees while clarifying decision-making authority, risk ownership, policy accountability, and incident response responsibilities.
+
+This deliverable supports governance maturity by ensuring organizational accountability and reducing ambiguity regarding cybersecurity roles and responsibilities.
+
+Key Areas Covered:
+
+• Executive Security Oversight
+• Risk Ownership
+• Policy Management Responsibilities
+• Incident Response Responsibilities
+• Access Control Ownership
+• Vendor Security Oversight
+• Security Awareness Responsibilities
+• Compliance Accountability
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• CIS Controls
+• ISO 27001

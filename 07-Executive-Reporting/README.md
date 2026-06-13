@@ -204,3 +204,27 @@ Frameworks Referenced:
 • NIST SP 800-53
 • ISO 27001
 • CIS Controls
+
+### Final Cybersecurity Governance Maturity Assessment
+
+Developed a Final Cybersecurity Governance Maturity Assessment to measure improvements achieved throughout the IsoTech Ink Cybersecurity Governance & Risk Transformation Initiative.
+
+The assessment compares current-state governance capabilities against the initial baseline and evaluates progress across governance oversight, policy management, risk management, vendor risk governance, security awareness, incident response readiness, compliance activities, and executive reporting.
+
+Key Areas Assessed:
+
+• Governance Structure Maturity
+• Policy & Standards Management
+• Risk Management Processes
+• Vendor Risk Governance
+• Security Awareness Program Maturity
+• Incident Response Readiness
+• Compliance Monitoring
+• Executive Reporting Effectiveness
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• ISO 27001
+• CIS Controls

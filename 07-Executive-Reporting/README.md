@@ -252,3 +252,27 @@ Frameworks Referenced:
 • NIST SP 800-53
 • ISO 27001
 • CIS Controls
+
+### Security Metrics Report
+
+Developed a Security Metrics Report to measure cybersecurity program effectiveness and provide executive leadership with visibility into governance performance, risk management activities, security awareness initiatives, vendor risk oversight, and compliance readiness.
+
+The report uses key performance indicators (KPIs), trend analysis, and risk metrics to demonstrate program maturity, risk reduction outcomes, and operational effectiveness.
+
+Key Areas Covered:
+
+• Governance Metrics
+• Security Awareness Performance
+• Phishing Simulation Results
+• Access Management Metrics
+• Vendor Risk Metrics
+• Risk Management Outcomes
+• Compliance Readiness Metrics
+• Executive Recommendations
+
+Frameworks Referenced:
+
+• NIST Cybersecurity Framework (CSF)
+• NIST SP 800-53
+• ISO 27001
+• CIS Controls
